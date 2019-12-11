@@ -9,5 +9,5 @@ ultamitely the Earth's atmosphere. Clouds are the most significant source of unc
 models for this reason. Finding a fast and accurate classifier can help close this gap in understanding
 so we can more accuratley predict the climate.
 
-The data was processed at UIUC, choosen and manually classfied. Dr. Jun Umshik (former employee of UIUC DAS) 
+The data was processed at UIUC, choosen and manually classfied. Dr. Junshik Um (former employee of UIUC DAS) 
 put together this data, which is NOT available here. Contact me if you wish to know more. 
